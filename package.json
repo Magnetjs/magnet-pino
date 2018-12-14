@@ -30,7 +30,7 @@
     "watch-all": "concurrently \"npm run watch\" \"npm run watch-test\""
   },
   "dependencies": {
-    "magnet-core": "^3.3.0",
+    "magnet-core": "^3.6.1",
     "pino": "^4.0.1"
   },
   "devDependencies": {
